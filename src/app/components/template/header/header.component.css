@@ -1,0 +1,19 @@
+
+/* Só ajustei o tamanho do logo e as posições */
+.header{
+    display: flex;
+    align-items: center;
+    height: 100px;   
+}
+
+.header a{
+    display: flex;
+    align-items: center;
+    color:rgb(9, 9, 124);
+    font-size: 1.5rem;
+}
+
+.header .imgLogo{
+    max-height: 100px;
+     
+}
